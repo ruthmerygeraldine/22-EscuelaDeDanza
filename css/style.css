@@ -161,12 +161,42 @@ img{
 	margin: 0;
 	padding: 0;
 }
-.container .baile div{
-	display: flex;
+
+.baile{
+	position: relative;
+	float: left;
 }
 .danza{
 
   	font-size: 38px;
 	background: url(../img/textura_2.jpg);
 	padding: 100px 100px;
+}
+.ubicacion{
+	background: rgba(11,52,91,1);
+	padding-bottom: 150px;
+}
+.parra{
+	color: white;
+	padding-left: 80px;
+	padding-top: 80px;
+	text-align: justify;
+	font-size: 12px;
+	width: 400px;
+}
+.ubicacion h3{
+	padding-top: 30px;
+	color: white;
+	padding-left: 80px;
+}
+.direc{
+	color: white;
+	padding-left: 80px;
+	font-size: 12px;
+}
+.mapa{
+	position: absolute;
+	left: 45%;
+	top: 600px;
+
 }
