@@ -1,1 +1,136 @@
-/* Inserta tu codigo aqui */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body div{outline: red 1px solid}
+img{
+	width: 565px;
+	height: 300px;
+	margin: 0;
+	padding: 0;
+}
+.baile{
+	position: relative;
+	float: left;
+}
+.profe{
+	position: absolute;
+	left: 28%;
+	top:226px;
+	background: blue;
+	color: white;
+	font-size: 24px;
+	padding: 20px 150px;
+}
+.danza{
+
+  	font-size: 38px;
+	background: url(../img/textura_2.jpg);
+	padding: 100px 100px;
+}
