@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 	color:#001848;
 	font-family: :arial,sans-serif;
@@ -39,3 +40,141 @@ h1, h2, h3, h4{
 .contenido{
 	margin-left: 150px;
 }
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+body div{outline: red 1px solid}
+img{
+	width: 565px;
+	height: 300px;
+	margin: 0;
+	padding: 0;
+}
+.baile{
+	position: relative;
+	float: left;
+}
+.profe{
+	position: absolute;
+	left: 28%;
+	top:226px;
+	background: blue;
+	color: white;
+	font-size: 24px;
+	padding: 20px 150px;
+}
+.danza{
+
+  	font-size: 38px;
+	background: url(../img/textura_2.jpg);
+	padding: 100px 100px;
+}
+>>>>>>> 75c93c1ffa7940dae722d5d38d22f4a272a27c18
